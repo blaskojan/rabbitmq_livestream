@@ -17,7 +17,7 @@ To install [Docker](https://docs.docker.com/engine/installation/#platform-suppor
 
 2. run command `composer install` 
 
-## Tip and tricks
+## Tips and tricks
 
 `docker system prune` - "clear" your docker local environment
 
